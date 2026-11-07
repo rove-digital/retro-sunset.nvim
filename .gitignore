@@ -1,0 +1,25 @@
+# Neovim / Vim swap and backup files
+*.swp
+*.swo
+*~
+*.un~
+.session.vim
+
+# Compiled theme or bytecode files
+*_compiled.lua
+*_compiled
+
+# Testing and development directories
+/build/
+/debug/
+/.repro/
+/.tests/
+doc/tags
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Local editor and IDE folders
+.vscode/
+.idea/
