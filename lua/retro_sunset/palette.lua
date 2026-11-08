@@ -12,7 +12,7 @@ local M = {
 	bg_visual = "#134E5A",
 
 	-- Foregrounds
-	fg = "#F9E4BC", -- cream: identifiers, plain text
+	fg = "#FBE9C6", -- cream: identifiers, plain text
 	fg_bright = "#FFF1DA",
 	fg_soft = "#A7C9C6", -- sea-glass
 	fg_dim = "#5F8F96",
